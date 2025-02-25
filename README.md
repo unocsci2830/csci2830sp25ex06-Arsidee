@@ -1,3 +1,3 @@
-# Title (update this to match assignment, e.g., Exercise 3, etc.)
+# Packaging, exercise #6
 
-add short (1-2 sentences) description of assignment here
+Put files into a new packages to break up class files.
