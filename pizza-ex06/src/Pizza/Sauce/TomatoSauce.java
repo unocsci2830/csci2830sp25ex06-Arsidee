@@ -1,4 +1,4 @@
-package sauce;
+package src.Pizza.Sauce;
 
 public class TomatoSauce extends PizzaSauce {
 	@Override

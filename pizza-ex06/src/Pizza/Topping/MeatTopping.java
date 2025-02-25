@@ -1,4 +1,5 @@
-package topping;
+package src.Pizza.Topping;
+
 
 public class MeatTopping extends PizzaTopping {
 

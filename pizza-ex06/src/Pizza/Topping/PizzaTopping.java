@@ -1,4 +1,6 @@
-package topping;
+package src.Pizza.Topping;
+
+import src.Pizza.MenuItem;
 
 public abstract class PizzaTopping implements MenuItem {
 	public abstract String toString(); 

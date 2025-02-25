@@ -1,5 +1,6 @@
 package src.Pizza.Crust;
 
+import src.Pizza.MenuItem;
 
 public abstract class PizzaCrust implements MenuItem {
 	private String ingredient;
